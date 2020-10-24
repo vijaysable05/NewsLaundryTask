@@ -23,7 +23,7 @@ export const BottomContainer = styled.div`
 export const GridContainer = styled.div`
 	margin: 20px;
 	display: grid;
-	grid-gap: 4rem;
+	grid-gap: 3rem;
 	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 	padding-bottom: 30px;
 `
