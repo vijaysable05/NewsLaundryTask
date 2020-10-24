@@ -90,7 +90,6 @@ class HomePage extends React.Component {
 
 
 	render() {
-		console.log(this.state)
 		return (
 
 			<HomepageContainer>
