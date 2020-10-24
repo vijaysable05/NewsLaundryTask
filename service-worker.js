@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NewsLaundryTask/precache-manifest.6cb143e748b58024b06f4dad9cc74146.js"
+  "/NewsLaundryTask/precache-manifest.3cc63c7e71aca598e171c7a089227c11.js"
 );
 
 self.addEventListener('message', (event) => {
